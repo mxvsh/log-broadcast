@@ -1,0 +1,13 @@
+{
+  "name": "log-broadcast",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/xencodes/log-broadcast",
+  "author": "xencodes <xencodes@icloud.com>",
+  "license": "MIT",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "socket.io": "^3.1.1"
+  }
+}
